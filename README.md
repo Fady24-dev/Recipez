@@ -2,7 +2,7 @@
 Recipez is an app that makes food easier and provides you with comprehensive information about the selected meal, including instructions on how to do this meal,and there is a youtube link.
 
 # Preview
-download apk app : https://www.mediafire.com/file/6w91er2g699kz3q/Recipez.rar/file
+download apk app : https://www.mediafire.com/file/l2o6v375elkz4j7/Recipez.apk/file
 ![Recipez](https://user-images.githubusercontent.com/73345730/224547410-84c3ecdd-05f9-46ca-8466-58b02578d464.jpg)
 
 # Libraries and technologies used
